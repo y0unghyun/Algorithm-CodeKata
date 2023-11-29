@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "23C2609B-BC3B-45A1-9C1F-8C4F8F1BC0A5"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1FFA9CF2-9FAE-427C-A55B-6D703828CF54"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "66/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "solution(_:_:)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "1FFA9CF2-9FAE-427C-A55B-6D703828CF54 - e63228b7fd43c918"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_6.solution(Swift.Array&lt;Swift.String&gt;, Swift.Array&lt;Swift.String&gt;) -&gt; Swift.Array&lt;Swift.Int&gt;"
+                  moduleName = "66"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhkim/Desktop/Sparta_iOS_Track_Repository/CodeKata/66/66/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "168">
+               </Location>
+               <Location
+                  uuid = "1FFA9CF2-9FAE-427C-A55B-6D703828CF54 - e63228b7fd43c918"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_6.solution(Swift.Array&lt;Swift.String&gt;, Swift.Array&lt;Swift.String&gt;) -&gt; Swift.Array&lt;Swift.Int&gt;"
+                  moduleName = "66"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhkim/Desktop/Sparta_iOS_Track_Repository/CodeKata/66/66/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "232">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
