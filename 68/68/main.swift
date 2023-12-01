@@ -8,7 +8,7 @@
 //import Foundation
 //
 //func solution(_ ingredient:[Int]) -> Int {
-////    var strIng = ingredient.map(String.init).joined()
+//    var strIng = ingredient.map(String.init).joined()
 //    var arrIng: [Int] = ingredient
 //    var count = 0
 //    
@@ -27,18 +27,18 @@
 //    }
 //    print(arrIng.contains([1,2,3,1]))
 //    
-////    while strIng.contains("1231") {
-////        var before = strIng.count
-////        strIng = strIng.replacingOccurrences(of: "1231", with: "")
-////        var after = strIng.count
-////
-////        print(before, after)
-////        count += (before - after) / 4
-////    }
+//    while strIng.contains("1231") {
+//        var before = strIng.count
+//        strIng = strIng.replacingOccurrences(of: "1231", with: "")
+//        var after = strIng.count
+//
+//        print(before, after)
+//        count += (before - after) / 4
+//    }
 //    return count
 //}
-
-print(solution([1, 1, 1, 2, 3, 1, 2, 3, 1, 2, 3, 1, 2, 3, 1]))
+//
+//print(solution([1, 1, 1, 2, 3, 1, 2, 3, 1, 2, 3, 1, 2, 3, 1]))
 
 
 //import Foundation
