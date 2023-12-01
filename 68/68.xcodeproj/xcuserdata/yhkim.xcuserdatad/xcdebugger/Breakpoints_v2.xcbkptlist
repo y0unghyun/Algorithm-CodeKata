@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "9DC52FDA-2314-4F14-95CD-69FB3253DBB1"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C4D4E4D4-8205-4A34-8EBF-B6A5752EF65A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "68/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D9567BD1-A969-4D7F-BF3A-E1D723A10129"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "68/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "D9567BD1-A969-4D7F-BF3A-E1D723A10129 - 6cdff1eb9dd86fe3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_8.solution(Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Int"
+                  moduleName = "68"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhkim/Desktop/Sparta_iOS_Track_Repository/CodeKata/68/68/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "328">
+               </Location>
+               <Location
+                  uuid = "D9567BD1-A969-4D7F-BF3A-E1D723A10129 - 6cdff1eb9dd86fc2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_8.solution(Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Int"
+                  moduleName = "68"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhkim/Desktop/Sparta_iOS_Track_Repository/CodeKata/68/68/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "348">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
