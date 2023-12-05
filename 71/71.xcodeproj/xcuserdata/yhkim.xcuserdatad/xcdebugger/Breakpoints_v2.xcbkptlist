@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "A4E9F941-FD8E-4FF7-A6F3-098D89059536"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3F026AE8-0716-4E61-BC7C-1FFABFE94BDA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "71/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "3F026AE8-0716-4E61-BC7C-1FFABFE94BDA - badd72aa26f508fd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_1.solution(Swift.String, Swift.Array&lt;Swift.String&gt;, Swift.Array&lt;Swift.String&gt;) -&gt; Swift.Array&lt;Swift.Int&gt;"
+                  moduleName = "71"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhkim/Desktop/Sparta_iOS_Track_Repository/CodeKata/71/71/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "808">
+               </Location>
+               <Location
+                  uuid = "3F026AE8-0716-4E61-BC7C-1FFABFE94BDA - badd72aa26f508fd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_1.solution(Swift.String, Swift.Array&lt;Swift.String&gt;, Swift.Array&lt;Swift.String&gt;) -&gt; Swift.Array&lt;Swift.Int&gt;"
+                  moduleName = "71"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhkim/Desktop/Sparta_iOS_Track_Repository/CodeKata/71/71/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "812">
+               </Location>
+               <Location
+                  uuid = "3F026AE8-0716-4E61-BC7C-1FFABFE94BDA - badd72aa26f508fd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_1.solution(Swift.String, Swift.Array&lt;Swift.String&gt;, Swift.Array&lt;Swift.String&gt;) -&gt; Swift.Array&lt;Swift.Int&gt;"
+                  moduleName = "71"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhkim/Desktop/Sparta_iOS_Track_Repository/CodeKata/71/71/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "816">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BFB85118-1919-4AEA-933E-3E8370AB4EC0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "71/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
