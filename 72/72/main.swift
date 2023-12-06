@@ -34,8 +34,8 @@ func solution(_ players:[String], _ callings:[String]) -> [String] {
     
     rankedPlayer = []
     
-    for (s, i) in sortedRanking {
-        rankedPlayer.append(s)
+    for (playersName, index) in sortedRanking {
+        rankedPlayer.append(playersName)
     }
     print(ranking)
     
