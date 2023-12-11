@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "D8C7E27A-2EFA-4B0D-AD8B-691C7966DA3C"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EDD3AB75-D698-4961-868E-8F28090F7704"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "75/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "solution(_:)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "EDD3AB75-D698-4961-868E-8F28090F7704 - 4fa10e7b22794219"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_5.solution(Swift.String) -&gt; Swift.String"
+                  moduleName = "75"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhkim/Desktop/Sparta_iOS_Track_Repository/CodeKata/75/75/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "380">
+               </Location>
+               <Location
+                  uuid = "EDD3AB75-D698-4961-868E-8F28090F7704 - 4fa10e7b22794219"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_5.solution(Swift.String) -&gt; Swift.String"
+                  moduleName = "75"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhkim/Desktop/Sparta_iOS_Track_Repository/CodeKata/75/75/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "284">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
