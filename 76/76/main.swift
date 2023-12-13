@@ -10,6 +10,7 @@ func solution(_ s:String) -> String {
     
     for thing in input {
         if Int(String(thing)) == nil {
+//            if count == 0 {
             if count == 0 && thing != " " {
                 temp.append(thing.uppercased())
                 count += 1
@@ -27,4 +28,4 @@ func solution(_ s:String) -> String {
     return temp.joined()
 }
 
-print(solution(" a 123e "))
+print(solution("   a 123e "))
